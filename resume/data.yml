@@ -4,38 +4,29 @@ name:
   middle:
   last: Du
 about: I'm passionate about conducting research after my undergraduate study, especially about applying machine learning to the problems in impactful areas, such as medicine, robotics, and commuincations.
-position: Software Developer
+position: U2 Computer Engineering
 
 birth:
   year: 1990
   location: New York
 
 experience:
-- company: Company A
-  position: Developer
-  timeperiod: since January 2016
-  description: Programming and watching cute cat videos.
-  website: https://example.com
+- company: Nokia
+  position: Research Assistant
+  timeperiod: June 2019 - August 2019
+  description: Assisting research & development of Nokia's 5G technology.
+  website: https://www.nokia.com/
 
-- company: Company B
-  position: Frontend Developer
-  timeperiod: January 2015 - December 2015
-  description: Fulfillment of extremely important tasks.
-
-- company: Company C
-  position: Trainee
-  timeperiod: March 2014 - December 2014
-  description: Making coffee and baking cookies.
+- company: McGill Robotics
+  position: Software Developer
+  timeperiod: September 2019 - Present
+  description: In charge of updating the software system used for computer vision of McGill Robotics team's Gooney-3 drone.
+  website: https://mcgillrobotics.com/
 
 education:
-- degree: Master of Arts
-  timeperiod: March 2012 - December 2013
-  description: Major in Hacking and Computer Penetration, University A, New York, USA.
-  website: https://example.com
-
-- degree: Bachelor of Science
-  timeperiod: March 2009 - December 2011
-  description: Major in Engineering, University B, Los Angeles, USA.
+- degree: Bachelor of Engineering
+  timeperiod: since September 2017
+  description: Major in Computer Engineering, McGill University.
 
 # skill level goes 0 to 100
 skills:
@@ -59,13 +50,29 @@ skills:
   level: 97
 - name: Vue.js
   level: 93
+- name: Bash
+  level: 93
+- name: Linux
+  level: 93
+- name: Android
+  level: 93
 knowledge: Active developer @ McGill Robotics since 2018. Also proficient in English and Mandarin Chinese.
 
 projects:
-- name: best-resume-ever
-  platform: Vue
-  description: 👔 💼 Build fast 🚀 and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
-  url: https://github.com/salomonelli/best-resume-ever
+- name: 🎭Block 223
+  platform: Java | UML
+  description: Supervised by Prof. Gunter Mussbacher, this is a fully playable brick breaker game modelled using MVC principles, UML, and using Java Applet and Swing packages for the UI. Placed No.4 out of 30 teams in the final competition in W2019.
+  url: https://github.com/du-hr/Block-223
+
+- name: 🎖CooLearn
+  platform: Java | Vue.js
+  description: Supervised by Dr. Marwan Kanaan for ECSE 321 in F2019, CooLearn is project consisted of frontend & backend development of website and Android app. Various build tools were used extensively from the beginning.
+  url: https://github.com/du-hr/CooLearn
+
+- name: 💰GameTree AI
+  platform: Python
+  description: Developed druing the code.jam(2019) hackathon, it uses ID3 Decision Tree model to accurately telling the difference between a customer of the high potential of making an in-app purchase of a mobile game with the other users. Placed No.3 in the sponsored catergory division.
+  url: https://devpost.com/software/gametreeai
 
 hobbies:
 - name: Video Games
@@ -77,14 +84,19 @@ hobbies:
   url: https://example.com
 
 contributions:
-- name: best-resume-ever
-  description: 👔 💼 Build fast 🚀 and easy multiple beautiful resumes.
-  url: https://github.com/salomonelli/best-resume-ever
+- name: 🚸McGill Homework Zone (W2018)
+  description: Provided voluntering service including various levels of support for children in local community in Montreal. Awarded Dean's Letter from McGill Dean of Students.
+- name: 💼McGill Robotics Business Team Outreach (F2018 - W2019)
+  description: Organized varrious outreach events for the promotion of McGill Robotics in Montreal elementary schools and CEGEPs.
+- name: 🇨🇦International Buddy Porgram Volunteer (F2018 - present)
+  description: Administred by McGill International Students Services, the program offers numerous support for newcmoing internatilnal members at McGill community. Have mentored 5 students over 2 years peroid.
+- name: 💁‍♀️Redpath Museum Tour Guide (W2018 - F2018)
+  description:  Volunteer tour guide at the museum offering service to vistors from all over the world.
 
 contact:
   email: haoran.du@mail.mcgill.ca
   phone: (438)-979-6026
-  street: 7-640 Prince Arthur St W
+  street: 7-640 Prince Arthur St W, Montreal, QC | H2X 1T8
   city: Montreal
   website: cs.mcgill.ca/~hdu10
   github: du-hr
