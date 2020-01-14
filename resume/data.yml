@@ -84,14 +84,14 @@ hobbies:
   url: https://example.com
 
 contributions:
-- name: 🚸McGill Homework Zone (W2018)
-  description: Provided voluntering service including various levels of support for children in local community in Montreal. Awarded Dean's Letter from McGill Dean of Students.
-- name: 💼McGill Robotics Business Team Outreach (F2018 - W2019)
-  description: Organized varrious outreach events for the promotion of McGill Robotics in Montreal elementary schools and CEGEPs.
-- name: 🇨🇦International Buddy Porgram Volunteer (F2018 - present)
-  description: Administred by McGill International Students Services, the program offers numerous support for newcmoing internatilnal members at McGill community. Have mentored 5 students over 2 years peroid.
-- name: 💁‍♀️Redpath Museum Tour Guide (W2018 - F2018)
-  description:  Volunteer tour guide at the museum offering service to vistors from all over the world.
+- name: 🚸McGill Homework Zone
+  description: Provided children support in local community in Montreal. Awarded Dean's Letter from McGill Dean of Students.(W2018)
+- name: 💼Business Outreach Lead
+  description: Organized various outreach events for the promotion of McGill Robotics in Montreal elementary schools and CEGEPs.(F2018 - W2019)
+- name: 🇨🇦IBP Volunteer
+  description: Offered numerous support through International Buddy Program for 5 newcoming international members at McGill community over 2 years. (F2018 - present)
+- name: 💁‍♀️Redpath Museum Tour Guide
+  description: Volunteer tour guide at the museum offering service to vistors from all over the world.  (W2018 - F2018)
 
 contact:
   email: haoran.du@mail.mcgill.ca
