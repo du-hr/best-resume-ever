@@ -90,7 +90,7 @@ contributions:
   description: Organized various outreach events for the promotion of McGill Robotics in Montreal elementary schools and CEGEPs.(F2018 - W2019)
 - name: 🇨🇦IBP Volunteer
   description: Offered numerous support through International Buddy Program for 5 newcoming international members at McGill community over 2 years. (F2018 - present)
-- name: 💁‍♀️Redpath Museum Tour Guide
+- name: 💁‍Redpath Museum Tour Guide
   description: Volunteer tour guide at the museum offering service to vistors from all over the world.  (W2018 - F2018)
 
 contact:
@@ -98,7 +98,7 @@ contact:
   phone: (438)-979-6026
   street: 7-640 Prince Arthur St W, Montreal, QC | H2X 1T8
   city: Montreal
-  website: cs.mcgill.ca/~hdu10
+  website: https://www.cs.mcgill.ca/~hdu10
   github: du-hr
 # en, de, fr, pt, ca, cn, it, es, th, pt-br, ru, sv, id, hu, pl, ja, ka, nl, he, zh-tw, lt, ko, el, nb-no
 lang: en
