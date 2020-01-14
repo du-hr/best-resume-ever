@@ -66,12 +66,12 @@ projects:
 
 - name: 🎖CooLearn
   platform: Java | Vue.js
-  description: Supervised by Dr. Marwan Kanaan for ECSE 321 in F2019, CooLearn is project consisted of frontend & backend development of website and Android app. Various build tools were used extensively from the beginning.
+  description: Supervised by Dr. Marwan Kanaan for ECSE 321 in F2019, CooLearn is consisted of frontend & backend development of website and Android app. Various build tools were used extensively from the beginning.
   url: https://github.com/du-hr/CooLearn
 
 - name: 💰GameTree AI
   platform: Python
-  description: Developed druing the code.jam(2019) hackathon, it uses ID3 Decision Tree model to accurately telling the difference between a customer of the high potential of making an in-app purchase of a mobile game with the other users. Placed No.3 in the sponsored catergory division.
+  description: Developed druing the code.jam(2019) hackathon, it uses ID3 Decision Tree model to accurately tell the difference between a customer of the high potential of making an in-app purchase of a mobile game with the other users. Placed No.3 in the sponsored catergory division.
   url: https://devpost.com/software/gametreeai
 
 hobbies:
@@ -91,7 +91,7 @@ contributions:
 - name: 🇨🇦IBP Volunteer
   description: Offered numerous support through International Buddy Program for 5 newcoming international members at McGill community over 2 years. (F2018 - present)
 - name: 💁‍Redpath Museum Tour Guide
-  description: Volunteer tour guide at the museum offering service to vistors from all over the world.  (W2018 - F2018)
+  description: Volunteer tour guide at the museum offerred service to vistors from all over the world.  (W2018 - F2018)
 
 contact:
   email: haoran.du@mail.mcgill.ca
